@@ -5,6 +5,7 @@ Pion One 板载有 6 个 Grove 接口，支持大多数的 Grove 模块。而在
 
 现在，请把 Grove - Temp&Humidity 插到 Pion One 的左上角(near to LED light)。 如下图：
 \< 插入连接后的实物图片 \>
+
 ![][image-1]
 
 #### Step 2: Installing Android/iOS App
@@ -20,6 +21,9 @@ Pion One 板载有 6 个 Grove 接口，支持大多数的 Grove 模块。而在
 #### Step 3: Creating You Account
 Android/iOS App 在第一次使用前，需要注册一个帐号，为了更好的管理你的 Pion One 设备。
 \< App 引导页面的截图 \>
+
+  \<iframe src="https://player.vimeo.com/video/138394370" width="500" height="889" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen\>\</iframe\> \<p\>\<a href="https://vimeo.com/138394370"\>signup\</a\> from \<a href="https://vimeo.com/user2217333"\>xiao_bo_\</a\> on \<a href="https://vimeo.com"\>Vimeo\</a\>.\</p\>
+
 
 
 #### Step 4: Connecting Pion One to WiFi AP

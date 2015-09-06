@@ -4,6 +4,7 @@
 Pion One has 6 Grove connectors, compatible with most of the Grove modules. We need a Grove-Temp & Humidity Pro module in this tutorial, it is a multifunctional sensor that gives you temperature and relative humidity information at the same time.
  
 Firstly, please plug the Grove-Temp & Humidity Pro module to the left corner (near to LED light) of Pion One. 
+
 ![][image-1]
 ￼
 
@@ -11,53 +12,59 @@ Firstly, please plug the Grove-Temp & Humidity Pro module to the left corner (ne
 You need to install an Android(链接) or iOS(链接) App to manage and configure Pion One device.
 
 **Android:**
+
 Please make sure your OS version is Android 4.1 or later, search in Google Play and install Pion One.
 \< 需要 Google Play 搜索截图 \>
  
 **iOS:**
-\< 需要 App Store 搜索截图 \>
+
 OS Version requires iOS 7 or later, please find Pion One in App Store and then install it.
- 
+\< 需要 App Store 搜索截图 \>
+
 #### Step 3: Creating You Account
 When you use the Android/iOS App for the first time, you need to sign up an account to manage your Pion One Devices.
-\< signup.mp4 \>
+
+<iframe src="https://player.vimeo.com/video/138394370" width="500" height="889" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/138394370">signup</a> from <a href="https://vimeo.com/user2217333">xiao_bo_</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
  
 #### Step 4: Connecting Pion One to WiFi AP
-开始添加你的第一个 Pion One，请看操作视频。
 Start to add your first Pion One, please check the operation video.
  
+
 **Android:**
-\< 视频内容：1. 需要 Pion One 和 Android 手机同时出现在视频。2. 点击 + 后进入连引导页面。3. 长按 3 秒Pion One 的功能键。4. 输入SSID 和 PWD。5. 完成\>
+
+< 视频内容：1. 需要 Pion One 和 Android 手机同时出现在视频。2. 点击 + 后进入连引导页面。3. 长按 3 秒Pion One 的功能键。4. 输入SSID 和 PWD。5. 完成>
  
+
 **iOS:**
-\< 视频内容：1. 需要 Pion One 和 iPhone 手机同时出现在视频。2. 点击 + 后进入连引导页面。3. 长按 3 秒Pion One 的功能键。4. 退出 Pion One，打开 Setting，连接 PionOne-xxx。5. 重新打开 Pion One 输入SSID 和 PWD。5. 完成\>
+
+Coming soon.
+
  
 #### Step 5: Setup You Pion One on Mobile App and Updating Firmware
-我们终于让 Pion One 连接上网络了，现在要赋予它生命。
 Finally, we connect the Pion One with internet; we will animate it now.
- 
-在 App 界面上点击刚刚连接上网络的 Pion One，开始配置：
+
 Press the Wi-Fi-connected Pion One in APP, start to configure.
  
 **Android:**
+
 \< 视频内容：1. 需要 Pion One 和 Android 手机同时出现在视频。2. 点击刚刚连接上网络的 Pion One。3. 点击 Pion One 左上角的 Grove 接口。4. 在 App 下边选择 Output。5. 选择 Grove - temp&humidity pro 模块。 6. 点击 App 右下角的 勾，确定。7. 点击右上角的 Update Firmware。8. 等待更新完成。\>
  
 **iOS:**
+
 \< 视频内容：1. 需要 Pion One 和 iPhone 手机同时出现在视频。2. 点击刚刚连接上网络的 Pion One。3. 点击 Pion One 坐上角的 Grove 接口。4. 在 在弹出的列表中选择 Grove - temp&humidity pro 模块。 6. 点击右上角的 Update Firmware。8. 等待更新完成。\>
  
 #### Step 6: Pion One is Get Ready
-Well，现在 Pion One 已经变成了一个联网，且能获取周围环境温湿度的设备——也就是一款物联网硬件设备。
 Well, Pion One has become a device that is connected to Wi-Fi and can acquire the temperatures of surroundings, which is an IoT hardware device.
  
 As I said，We just build an IoT devices in 5 minutes.
  
-每个 Pion One 所连接的 Grove 模块都可以通过 URL 连接访问，可以执行：Write, Read，与 HTTP 协议类似。所以有时候我们也会称呼它们为 Web of Things devices.
-Each Grove module connected to Pion One can be visited by URL, and carry out Write, Read operations， similar to HTTP. Sometimes we call them Web of Things devices too.
+
+Each Grove module connected to Pion One can be visited by URL, and carry out Write, Read operations， similar to HTTP. Sometimes we call them **Web of Things** devices too.
  
 点击 Pion One 列表右边的 ** 3 个小点的提示按钮 **。然后再点击 ** Detail **，我们就会看到下面的图：
 \< Detail 图片 \>
 Press the  ** Tips button with 3 dots ** on the right side of Pion One, and then press ** Detail **， we will see the picture as below.
- 
+
 ￼
 
 打开链接，可以看到所有能访问的 Grove 模块信息，包括如何访问，以及每个 Grove 模块支持的参数，等等。QR Code 里的信息也是同一个链接。
@@ -127,7 +134,7 @@ There are more than 150+ Grove modules, more details about Grove System, please 
  
 \< 插入 Grove 图：一张预览图 \>
 - Pion One Modes
-	 
+	  
 \< 需要几个 Pion One 的实物 gif 图，演示各种模式：LED 灯的不同闪烁代表的意思\>
  
 - Pion One and Grove
@@ -138,12 +145,12 @@ Pion One 支持 4 中类型的 Grove 接口：I2C，Digital IO，Analog IO，UAR
 ## Workflow of Pion One
 - Hardware is Out-of-Box
 - Grove is Plug&Play, without soldering
-	 
+	  
 ## Mobile App
 - Features (要有 Android 和 iOS App 截图）
-    - Smart Config(TM)
-    - Visual Configuration
-    - Device Management
+    \- Smart Config(TM)
+    \- Visual Configuration
+    \- Device Management
 ## Accessing Grove Sensors and Actuators
 - Command Line （Curl 和 Python 脚本演示）
 - IFTTT （引用 Demo 项目）
@@ -152,15 +159,13 @@ Pion One 支持 4 中类型的 Grove 接口：I2C，Digital IO，Analog IO，UAR
 - Your Application and More (引用 Demo 项目）
 ## Cloud
 - Lightweight Server
-    - Cloud Compile and Over-The-Air(OTA) Upgrade
-    - Account Management
-    - URL routing
+    \- Cloud Compile and Over-The-Air(OTA) Upgrade
+    \- Account Management
+    \- URL routing
 - Thirty Cloud Services
-	 
-[1]():    http://www.seeedstudio.com/wiki/Grove_System
+	  
+[1]():    http://www.seeedstudio.com/wiki/Grove\_System
  
 [image-1]():  file:///Users/xiaobo/Desktop/Pion%20One/content.png
-
-
 
 [image-1]:	file:///Users/xiaobo/Desktop/Pion%20One/F411E2374D5EB409B1F072AE0505974C.jpg
