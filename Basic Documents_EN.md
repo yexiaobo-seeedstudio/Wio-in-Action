@@ -5,8 +5,7 @@ Pion One has 6 Grove connectors, compatible with most of the Grove modules. We n
 
 Firstly, please plug the Grove-Temp & Humidity Pro module to the left corner (near to LED light) of Pion One. 
 
-![][connected_grove-temp]
-￼
+￼<img src="https://github.com/yexiaobo-seeedstudio/Pion-Docs/raw/master/images/connected_grove-temp.jpg" width="500" height="700" frameborder="0" alt="" style="max-width:100%;">
 
 #### Step 2: Installing Android/iOS App
 You need to install an Android(Google Play Link) or iOS(App Store Link) App to manage and configure Pion One device.
@@ -59,12 +58,11 @@ Each Grove module connected to Pion One can be visited by URL，and carry out Wr
 
 Press the ** Tips button with 3 dots ** on the right side of Pion One, and then press ** Detail **， we will see the picture as below.
 
-![][details]
-￼
+￼￼<img src="https://github.com/yexiaobo-seeedstudio/Pion-Docs/raw/master/images/details.png" width="400" height="750" frameborder="0" alt="" style="max-width:100%;">
 
 Open the link, we can see all the available Grove Modules information, include how to visit, and the parameters each Grove Module support, ect. It is the same link information in QR Code.
 
-￼![][api_tips]
+￼￼<img src="https://github.com/yexiaobo-seeedstudio/Pion-Docs/raw/master/images/api_tips.png" width="400" height="750" frameborder="0" alt="" style="max-width:100%;">
 
 #### Step 7: Accessing Grove Temp&Humidity Sensor
 Now，lets try to get temperature and humidity via URL.
@@ -131,7 +129,7 @@ There are more than 150+ Grove modules, more details about Grove System, please 
 
 - Config Mode
 
-	<iframe src="https://player.vimeo.com/video/138398577" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/138398577" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 - Requesting IP from Router
 	
