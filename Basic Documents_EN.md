@@ -30,7 +30,7 @@ Start to add your first Pion One, please check the operation video. 
 < 视频内容：1. 需要 Pion One 和 Android 手机同时出现在视频。2. 点击 + 后进入连引导页面。3. 长按 3 秒Pion One 的功能键。4. 输入SSID 和 PWD。5. 完成>
 
 <video width="400" height="711" controls>
-  <source src="/Users/xiaobo/Desktop/Pion One/video/smartconfig.mp4" type="video/mp4">
+  <source src="https://github.com/yexiaobo-seeedstudio/Pion-Docs/raw/master/images/signup.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
 
